@@ -23,3 +23,9 @@ It is a software where I have used an API, which helps to keep the currency exch
 2. How API works
 3. Streamlit basics and how to use it to deploy basic website as a software
 4. how to get and post queries
+
+
+
+## Future:
+
+Will add more projects atleast 7 more.
