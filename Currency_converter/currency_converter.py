@@ -2,8 +2,8 @@ import requests
 import streamlit as st
 
 # Base URL and API key
-base_url = "https://v6.exchangerate-api.com/v6"  # Correct your API URL if needed
-api_key = "6dcc1350c605bb73c8478dfb"
+base_url = "https://v6.exchangerate-api.com/v6" 
+api_key = "<Insert-your-own-api-key>"
 
 # Display an image
 st.image("image.jpeg", width=200)
