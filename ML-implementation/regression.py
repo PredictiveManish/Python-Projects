@@ -34,7 +34,7 @@ for x in X:
     y_pred.append(y)
 
 print(y_pred)
-
+"""
 min_X, max_X = min(X), max(X)
 min_Y, max_Y = min(Y), max(Y)
 
@@ -50,3 +50,18 @@ for i in range(len(X)):
         grid[scaled_Y][scaled_X] = '*'
 for row in grid:
     print(''.join(row))
+"""
+
+# Now calculating mean squared error
+squared_residuals_sum = 0
+
+# Loop through the predicted values and actual values
+for i in range(len(y_pred)):
+    # Calculate residual (actual - predicted)
+    residual = Y[i] - y_pred[i] 
+    # Square the residual and add it to the sum
+    squared_residuals_sum += residual ** 2
+# Calculate Mean Squared Error (MSE)
+mse = squared_residuals_sum / len(Y)
+
+print(f"Mean Squared Error (MSE): {mse}")
