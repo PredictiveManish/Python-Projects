@@ -6,7 +6,8 @@
 4. Compute slope m
 5. Compute Intercept c
 6. Write the function to predict y for any given x.
-7. Measuring error for valuation"""
+7. Measuring error for valuation
+"""
 X = [140,155,159,179,192,210]
 Y = [60,62,67,70,71,72]
 # Mean calculation
