@@ -1,0 +1,19 @@
+1. Folder Cleaner Script
+
+2. YouTube Video Downloader
+
+3. Auto Email Sender
+
+4. PDF Merger Tool
+
+5. Image Compressor
+
+6. Weather App (API)
+
+7. Simple REST API with FastAPI
+
+8. SQLite CRUD App
+
+9. CSV Data Cleaner
+
+10. Markdown to HTML Converter
