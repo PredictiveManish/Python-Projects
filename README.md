@@ -24,7 +24,12 @@ It is a software where I have used an API, which helps to keep the currency exch
 3. Streamlit basics and how to use it to deploy basic website as a software
 4. how to get and post queries
 
-## 4. API Based weather Forecasting
+## 5. Folder Cleaner
+It is a simple script to make my folder look cleaner not so much purposeful but oriented towards solving a small problem of organizing files into folders and easily distinguishing between different kind of folders easily,
+1. As per now it is only working by changing paths in code and running the script each time but sooner I will make sure that it can be working on my laptop and organizing files in different folders(sooner means a long time)
+
+## 6. Auto Email Sender
+A basic script to directly send Email from VSCode simply typing the body giving Subject, recipient(cc, bcc or single) and if there's any folder to attach: The text will be typed in Simple Mail format in ```.txt``` file so that it can be written in particular format!
 
 
 ## Future:
