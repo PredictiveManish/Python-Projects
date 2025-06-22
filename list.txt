@@ -1,19 +1,19 @@
-1. Folder Cleaner Script
+1. Folder Cleaner Script (Done)
 
-2. YouTube Video Downloader
+2. YouTube Video Downloader (Done)
 
-3. Auto Email Sender
+3. Auto Email Sender (23-06-2025)
 
-4. PDF Merger Tool
+4. PDF Merger Tool (24-06-2025)
 
-5. Image Compressor
+5. Image Compressor (25-06-2025)
 
-6. Weather App (API)
+6. Weather App (API) (26-06-2025)
 
-7. Simple REST API with FastAPI
+7. Simple REST API with FastAPI (27-06-2025)
 
-8. SQLite CRUD App
+8. SQLite CRUD App (28-06-2025)
 
-9. CSV Data Cleaner
+9. CSV Data Cleaner (29-06-2025)
 
-10. Markdown to HTML Converter
+10. Markdown to HTML Converter (30-06-2025)
