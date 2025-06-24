@@ -1,10 +1,10 @@
 import smtplib
 from email.message import EmailMessage
 
-sender_email = "mtswarn0912@gmail.com" # SMTP.sendmail(from_addr=)
-receiver_email = "manisht0914@gmail.com" #SMTP.sendmail(to_addrs="manisht0914@gmail.com")
+sender_email = "" 
+receiver_email = " " 
 
-id_password = "ypin gehm nylw ryao"
+id_password = "" # Enter your own password 
 
 msg = EmailMessage()
 msg['Subject'] = 'Test Email from Python'
