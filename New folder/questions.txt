@@ -1,0 +1,99 @@
+Add Two Numbers
+Find the Square Root
+Calculate the Area of a Triangle (Take input Base and Height)
+Solve Quadratic Equation
+Swap Two Variables (Take two numbers swap it)
+Generate a Random Number
+Convert Kilometers to Miles (Take input km)
+Convert Celsius To Fahrenheit (Take input in Celsius)
+Check if a Number is Positive, Negative or 0
+Check if a Number is Odd or Even
+Check Leap Year
+Find the Largest Among Three Numbers (Take 3 numbers as a input)
+Second Largest among three number(take input three number)
+Display the multiplication Table ex - (2 *1 = 2)
+Find the Factorial of a Number
+Perfect Square 
+Check Prime Number (Take one number check it number is prime or not)
+Find the Sum of Natural Numbers
+Find the Factors of a Number
+Check Whether a Number is Palindrome or Not
+Print the Fibonacci sequence (Display till number input)
+Check Armstrong Number
+Find HCF or GCD
+Find LCM
+Print all Prime Numbers in an Interval
+Find Armstrong Number in an Interval
+Display Powers of 2 Using Anonymous Function
+Find Numbers Divisible by Another Number
+Convert Decimal to Binary, Octal and Hexadecimal
+Find ASCII Value of Character
+Make a Simple Calculator
+Shuffle Deck of Cards
+Display Calendar
+Display Fibonacci Sequence Using Recursion
+Find Sum of Natural Numbers Using Recursion
+Find Factorial of Number Using Recursion
+Convert Decimal to Binary Using Recursion
+Add Two Matrices
+Transpose a Matrix
+Multiply Two Matrices
+Check Whether a String is Palindrome or Not
+Remove Punctuations From a String
+Sort Words in Alphabetic Order
+Illustrate Different Set Operations
+Count the Number of Each Vowel
+Merge Mails
+Find the Size (Resolution) of an Image
+Find Hash of File
+Create Pyramid Patterns
+Merge Two Dictionaries
+Safely Create a Nested Directory
+Access Index of a List Using for Loop
+Flatten a Nested List
+Slice Lists
+Iterate Over Dictionaries Using for Loop
+Sort a Dictionary by Value
+Check If a List is Empty
+Catch Multiple Exceptions in One Line
+Copy a File
+Concatenate Two Lists
+Check if a Key is Already Present in a Dictionary
+Split a List Into Evenly Sized Chunks
+Parse a String to a Float or Int
+Print Colored Text to the Terminal
+Convert String to Datetime
+Get the Last Element of the List
+Get a Substring of a String
+Print Output Without a Newline
+read a File Line by Line Into a List
+Randomly Select an Element From the List
+Check If a String Is a Number (Float)
+Count the Occurrence of an Item in a List
+Append to a File
+Delete an Element From a Dictionary
+Create a Long Multiline String
+Extract Extension From the File Name
+Measure the Elapsed Time in Python
+Get the Class Name of an Instance
+Convert Two Lists Into a Dictionary
+Differentiate Between type() and isinstance()
+Trim Whitespace From a String
+Get the File Name From the File Path
+Represent enum
+Return Multiple Values From a Function
+Get Line Count of a File
+Find All File with .txt Extension Present Inside a Directory
+Get File Creation and Modification Date
+Get the Full Path of the Current Working Directory
+Iterate Through Two Lists in Parallel
+Check the File Size
+Reverse a Number
+Compute the Power of a Number
+Count the Number of Digits Present In a Number
+Check If Two Strings are Anagram
+Capitalize the First Character of a String
+Compute all the Permutation of the String
+Create a Countdown Timer
+Count the Number of Occurrence of a Character in String
+Remove Duplicate Element From a List

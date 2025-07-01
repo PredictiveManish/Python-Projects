@@ -6,9 +6,9 @@
 
 4. PDF Merger Tool (Done)
 
-5. Image Compressor (25-06-2025)
+5. Image Compressor (Done)
 
-6. Weather App (API) (26-06-2025)
+6. Weather App (API) (Done(Already Built))
 
 7. Simple REST API with FastAPI (27-06-2025)
 
