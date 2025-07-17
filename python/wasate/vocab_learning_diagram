@@ -1,0 +1,28 @@
+// Vocabulary Learning Flow
+digraph {
+	rankdir=LR
+	A [label="User Input
+(Articles, Videos,
+Book Images)"]
+	B [label="Text Extractor
+(OCR / Subtitles Scraper)"]
+	C [label="Word Analyzer Engine
+- Difficulty Checker
+- Emotion & Context"]
+	D [label="Vocabulary Database
+- Word Lists
+- Translations
+- Notes"]
+	E [label="User Dashboard
+- Daily Words
+- Sentence Practice (LLM)"]
+	F [label="Community Layer
+- Slang Submissions
+- Verifications
+- Gamification"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+}

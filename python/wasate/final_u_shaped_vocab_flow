@@ -1,0 +1,32 @@
+// Final U-Shaped Vocabulary Flow
+digraph {
+	nodesep=1.2 rankdir=TB ranksep=1.2 splines=ortho
+	A [label="User Input
+(Articles, Videos, Images)" shape=box]
+	B [label="Text Extractor
+(OCR / Subtitles)" shape=box]
+	C [label="Word Analyzer Engine
+- Difficulty
+- Emotion" shape=box]
+	D [label="Vocabulary Database
+- Words
+- Translations
+- Notes" shape=box]
+	E [label="User Dashboard
+- Daily Words
+- Practice (LLM)" shape=box]
+	F [label="Community Layer
+- Slangs
+- Gamification" shape=box]
+	{
+		rank=same
+		A -> B
+	}
+	B -> C
+	C -> D
+	{
+		rank=same
+		F -> E
+		E -> D
+	}
+}

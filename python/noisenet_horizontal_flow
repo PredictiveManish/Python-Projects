@@ -1,0 +1,40 @@
+// NoiseNet Horizontal Flow
+digraph {
+	bgcolor=white nodesep=1.4 rankdir=LR ranksep=1.2 splines=ortho
+	graph [dpi=300]
+	node [color=black fontcolor=black fontname=Arial fontsize=14 shape=box style="rounded,filled"]
+	edge [arrowsize=1.0 color=black penwidth=1.5]
+	A [label="🎤
+Audio Input
+(Record/Upload)" fillcolor="#e3f2fd"]
+	B [label="🎼
+Preprocessing
+(Mel Spectrogram)" fillcolor="#e8f5e9"]
+	C [label="🤖
+ML Model
+CNN Classifier" fillcolor="#fff3e0"]
+	D [label="📊
+Threshold Check
+Safe / Unsafe" fillcolor="#f3e5f5"]
+	E [label="🗺️
+Geo Mapping
+Noise Heatmap" fillcolor="#fce4ec"]
+	F [label="🧠
+Sarvam-m Bot
+(Hindi + English)" fillcolor="#ede7f6"]
+	G [label="📤
+Report & Share
+Visual Insight" fillcolor="#e1f5fe"]
+	H [label="🗃️
+Data Store
+Firebase / CSV" fillcolor="#f9fbe7"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> G
+	D -> F
+	D -> H
+	E -> H
+	F -> G
+}
