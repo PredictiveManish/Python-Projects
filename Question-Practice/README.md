@@ -1,8 +1,8 @@
-Week 1: Core ML Fundamentals: Scikit-learn, pandas, matplotlib (Goal: Get hands-n with preprocessing, supervised learning, classification, regression)
+#### Week 1: Core ML Fundamentals: Scikit-learn, pandas, matplotlib (Goal: Get hands-n with preprocessing, supervised learning, classification, regression)
 1. Titanic Survival Prediction (Classification)
 - Concepts: Feature Engineering, Label encoding, handling missing data
 - Models: Logistic Regression, Decision Tree, Random Forest
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. Student Performance Predictor (Regression)
 - Dataset: Student scores based on study hours, sleep, social media etc.
 - Concepts: Linear Regression, scatter plots, MSE
@@ -12,7 +12,9 @@ Week 1: Core ML Fundamentals: Scikit-learn, pandas, matplotlib (Goal: Get hands-
 - Dataset - sklearn.datasets.load_breast_cancer()
 - Learn: Confusion matrix, precision, recall, F1-score, ROC curve
 
-Week 2: Goal- Understand bias-variance tradeoff, cross-validation, and improve model performance.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Week 2: Goal- Understand bias-variance tradeoff, cross-validation, and improve model performance.
 1. Heart Disease Prediction
 - Learn: Data imbalance handling, SMOTE, cross-validation
 
@@ -24,7 +26,9 @@ Week 2: Goal- Understand bias-variance tradeoff, cross-validation, and improve m
 - Dataset: Ames or California Housing
 - Learn: Pipeline, GridSearchCV, Feature Selection, Polynomial Regression
 
-Week 3: DL with TF/keras(Goal: Get into image and text data with basic neural networks)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Week 3: DL with TF/keras(Goal: Get into image and text data with basic neural networks)
 1. Digit Recognition with MNIST
 - Concepts: Dense NN, ReLU, Softmax, categorical cross-entropy
 - Tools: Keras, tensorflow
@@ -34,7 +38,9 @@ Week 3: DL with TF/keras(Goal: Get into image and text data with basic neural ne
 - Tools: ```keras```, `tensorflow`, embedding layers
 - Concepts: LSTM, word embeddings
 
-Week 4: Capstone + Bonus (Goal: Bring Everything together in a slightly more complex project)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Week 4: Capstone + Bonus (Goal: Bring Everything together in a slightly more complex project)
 1. Image Classification on Custom Dataset
 - Collect or download 3-5 Categories (e.g cat/dog/elephant)
 - Train a CNN
@@ -47,6 +53,7 @@ Week 4: Capstone + Bonus (Goal: Bring Everything together in a slightly more com
 - Build a web app using `Streamlit` or `Gradio` to deploy any model above.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Tools:
