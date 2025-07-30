@@ -2,7 +2,7 @@
 1. Titanic Survival Prediction (Classification)
 - Concepts: Feature Engineering, Label encoding, handling missing data
 - Models: Logistic Regression, Decision Tree, Random Forest
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2. Student Performance Predictor (Regression)
 - Dataset: Student scores based on study hours, sleep, social media etc.
 - Concepts: Linear Regression, scatter plots, MSE
