@@ -36,4 +36,3 @@ A basic script to directly send Email from VSCode simply typing the body giving 
 
 Will add more projects atleast 7 more.
 
-
